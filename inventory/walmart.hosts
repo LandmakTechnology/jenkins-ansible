@@ -5,4 +5,4 @@
 
 #172.31.38.103 ansible_user=ec2-user ansible_port=22 
 #172.31.39.245 ansible_user=ec2-user ansible_port=22 
-172.31.4.201 ansible_user=jenkins
+172.31.80.9 ansible_user=jenkins
