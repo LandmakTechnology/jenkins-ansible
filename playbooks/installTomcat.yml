@@ -1,4 +1,4 @@
-- hosts: all
+- hosts: app
   become: true
   tasks:
     - name: Install Java
