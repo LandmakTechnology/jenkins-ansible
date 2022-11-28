@@ -12,7 +12,7 @@ pipeline {
     //Get the Code from GitHub Repo
     stage('CheckOutCode'){
       steps{
-        git "https://github.com/LandmakTechnology/ansible29a"
+        git "https://github.com/LandmakTechnology/jenkins-ansible"
         }
     }
      
